@@ -41,7 +41,7 @@
 
 
 
-       /* for ($i = 0; $i <$fsize; $i++) {
+       /* for ($i = 0; $i<$fsize; $i++) {
             $asciiCharacter = $contents[$i];
             $base10value = ord($asciiCharacter);
             $base2representation = base_convert($base10value, 10, 2);
